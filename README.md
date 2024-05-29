@@ -36,9 +36,6 @@ python main.py
 - "List all invoices for a specific customer."
 - "Give the artist name who create highest number of albums"
 
-## Contributing
-Contributions to the Database Talk project are welcome. Please ensure to update tests as appropriate.
-
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
