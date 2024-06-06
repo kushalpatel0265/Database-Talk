@@ -31,10 +31,12 @@ To set up the Database Talk environment, follow these steps:
    ```
 
 ## Usage
-Start the project by running the main script:
-```
-python main.py
-```
+1. Start the project by running the main script:
+   ```
+   python main.py
+   ```
+2. Upload your database file and integrate in the code.
+
 ### Example Commands
 - "Show all records from the customer table."
 - "List all invoices for a specific customer."
