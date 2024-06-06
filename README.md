@@ -14,8 +14,9 @@ Follow these instructions to set up and run Database-Talk on your local machine.
 
 ## Prerequisites
 - Python 3.8 or newer
+- - SQLite database setup
 - PandasAI library
-- SQL database setup
+- PandasAI API key (obtain yours at [PandasAI API Keys](https://www.pandabi.ai/admin/api-keys))
 
 ## Installation
 To set up the Database Talk environment, follow these steps:
