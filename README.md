@@ -41,5 +41,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Gmail: kushalpatel0265@gmail.com
-
 Project Link: https://github.com/kushalpatel0265/Database-Talk
