@@ -9,6 +9,9 @@ Database Talk is an innovative project integrating PandasAI with SQL databases t
 - Support for multiple database schemas.
 - User-friendly for non-technical users.
 
+## Getting Started
+Follow these instructions to set up and run Database-Talk on your local machine.
+
 ## Prerequisites
 - Python 3.8 or newer
 - PandasAI library
